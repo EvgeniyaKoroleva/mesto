@@ -1,0 +1,11 @@
+.elements__element {
+    width: 282px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.elements__element:nth-child(3) {
+    margin-right: 0;
+}

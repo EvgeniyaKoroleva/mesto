@@ -1,0 +1,17 @@
+.elements__like {
+    width: 22px;
+    height: 19px;
+    padding: 0;
+    border: hidden;
+    background: url("../../../images/Group.svg") transparent center no-repeat;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.elements__like:hover {
+    opacity: 0.6;
+}
