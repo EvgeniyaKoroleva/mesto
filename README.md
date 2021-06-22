@@ -14,4 +14,4 @@
 4. Java Script
 5. Медиазапросы
 
-* [Ссылка на GitHub Pages]()
+* [Ссылка на GitHub Pages](https://evgeniyakoroleva.github.io/mesto/)
