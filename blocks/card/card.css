@@ -1,4 +1,4 @@
-.elements__element {
+.card {
     width: 282px;
     background-color: white;
     border-radius: 10px;
@@ -6,6 +6,6 @@
     flex-direction: column;
 }
 
-.elements__element:nth-child(3) {
+.card:nth-child(3) {
     margin-right: 0;
 }

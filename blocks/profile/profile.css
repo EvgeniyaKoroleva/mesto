@@ -2,6 +2,8 @@
     color: #FFFFFF;
     max-width: 880px;
     margin: 0 200px 50px 200px;
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
     flex-direction: row;
 }
@@ -10,6 +12,8 @@
     .profile {
         max-width: 282px;
         margin: 0 19px 36px 19px;
+        margin-left: auto;
+        margin-right: auto;
         flex-direction: column;
     }
 }
